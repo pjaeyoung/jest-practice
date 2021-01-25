@@ -1,0 +1,19 @@
+{
+  "name": "jest-practice",
+  "version": "1.0.0",
+  "description": "study jest for TDD",
+  "main": "src/index.js",
+  "repository": "https://github.com/pjaeyoung/jest-practice.git",
+  "author": "pjaeyoung",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-typescript": "^7.12.7",
+    "@types/jest": "^26.0.20",
+    "jest": "^26.6.3"
+  }
+}
